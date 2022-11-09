@@ -1,0 +1,181 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
+
+.clr{
+    clear: both;
+}
+
+.container{
+   width: 1349px;
+   margin: 0 auto;
+   height: 700px;
+    background-color:#FAF0F0
+
+}
+#navbar{
+    padding: 15px;
+    
+    background-color: #FF1E1E;
+}
+a:hover{
+   color: rgb(0, 255, 21);
+   
+}
+#one{
+    height: 25px;
+    width: 25px;
+    margin: 0px 0px -9px 100px;
+    display: inline-block;
+}
+
+#two{
+    height: 25px;
+    width: 25px;
+    margin: 0px 0px -9px 100px;
+    display: inline-block;
+}
+#logo1{
+    margin: 40px 0px -50px 100px;
+    display: inline-block;
+    transform: translateY(-30%);
+}
+.menu ul li {
+  
+    display: inline-block;
+}
+
+.menu ul li a {
+    color: black;
+    margin: -20px 0px 0px 60px;
+   
+    display: inline-block;
+}
+.section a{
+    color:white;
+}
+.menu{
+    margin: -150px 0px 0px 50px;
+    display: inline-block;
+    transform: translateY(-20%);
+    position: relative;
+}
+
+#logo3{
+    margin: 0px 0px 0px 50px;
+   transform: translateY(30%);
+    display: inline-block;
+}
+
+.a{
+    margin: 100px 0px 0px -200px;
+    position: absolute;
+}
+#a{
+    margin: 95px 0px 0px -250px;
+    position: absolute;
+}
+.b{
+    margin: 150px 0px 0px -230px;
+    position: absolute;
+}
+
+.menu h1{
+color: red;
+
+}
+h3{
+    margin-top: 30px;
+  
+}
+
+#browse{
+    margin-top: 30px;
+  
+}
+
+#course{
+    margin-left: 20px;
+}
+#iso{
+ margin-top: 50px;
+ display: inline-block;
+}
+h4{
+  margin-top: -50px;
+  margin-left: 65px;
+}
+
+#years{
+margin-left: 600px;
+margin-top: -700px;
+height: 350px;
+width: 600px;
+
+}
+
+#design{
+border-radius: 30px;
+background-color: #ffffff;
+margin: 0px 10px 0px 20px;
+}
+
+.jonoprio h1{
+    color: black;
+    margin-top: 150px;
+    margin-left: 450px;
+}
+
+.jonopriochuto{
+    margin-left: 300px;
+    margin-top: 20px;
+}
+
+#coursename{
+    margin-top: 40px;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+#corseprice{
+    margin-top: 30px;
+    margin-right: 15px;
+    margin-left: 20px;
+}
+
+#coursedetail{
+    margin-top: 30px;
+    margin-right: 15px;
+    margin-left: 20px;
+}
+.sofolota h1{
+    color: black;
+    margin-top: 50px;
+    text-align: center;
+    transform: translateX(-4%);
+}
+.sofolotaone h4{
+    color: black;
+    margin-top: 25px;
+    text-align: center;
+    transform: translateX(-6%);
+}
+
+#video{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+#arodekhun{
+    margin-top: 40px;
+    margin-left: 520px;
+}
+
+#onnonno{
+    margin-top: 30px;
+    margin-left: 500px;
+}
